@@ -26,4 +26,6 @@
 
 # GitHub Stats
 
-![GitHub Stats]
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivandla96&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+<br/>
+
