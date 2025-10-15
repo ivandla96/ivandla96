@@ -6,7 +6,7 @@
 📧 Email: [ivandla96@gmail.com](mailto:ivandla96@gmail.com) <br>
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/ivan-diaz-lópez-75a515357) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://linkedin.com/in/ivan-diaz-lópez-75a515357) 
 
 # 💻 Tech Stack
 
